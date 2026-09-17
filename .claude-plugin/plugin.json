@@ -1,0 +1,9 @@
+{
+  "name": "enterprise-token-saver",
+  "version": "1.0.0",
+  "description": "Routes mechanical code generation to Haiku subagents while the orchestrating session keeps planning, review, and judgment work.",
+  "author": {
+    "name": "Hanna Sage",
+    "url": "https://github.com/hannasage"
+  }
+}

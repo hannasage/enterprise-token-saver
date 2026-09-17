@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "enterprise-token-saver",
+  "description": "Cut coding spend by delegating mechanical code and test writing to Haiku subagents under a written brief.",
+  "owner": {
+    "name": "Hanna Sage",
+    "url": "https://github.com/hannasage"
+  },
+  "plugins": [
+    {
+      "name": "enterprise-token-saver",
+      "description": "Cut coding spend by delegating mechanical code and test writing to Haiku subagents under a written brief.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
